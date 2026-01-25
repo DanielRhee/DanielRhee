@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi I'm Daniel Rhee
+I am currently a student at the University of
+California, Santa Cruz pursuing a BS in Computer Science and intend to
+graduate in Spring 2027. 
 
-<!--
-**DanielRhee/DanielRhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I intend to pursue research and go to graduate school. I currently
+am interested primarily in robotics/autonomous systems specifically in
+computer vision, mapping, and control systems. I am also interested in
+bioinformatics and computational mathematics. 
 
-Here are some ideas to get you started:
+I currently am the autonomous racing lead at Formula Slug and am an
+undergraduate research assistant working on robustifying autonomous
+vehicles in the AIEA lab. You can earn more about my experience and me at
+[danielrhee.com](https://www.danielrhee.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect or reach out on
+[LinkedIn](https://www.linkedin.com/in/daniel-rhee/) 
