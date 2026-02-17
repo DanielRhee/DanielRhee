@@ -10,7 +10,7 @@ bioinformatics and computational mathematics.
 
 I currently am the autonomous racing lead at Formula Slug and am an
 undergraduate research assistant working on robustifying autonomous
-vehicles in the AIEA lab. You can earn more about my experience and me at
+vehicles in the AIEA lab. You can learn more about my experience and me at
 [danielrhee.com](https://www.danielrhee.com/)
 
 Feel free to connect or reach out on
